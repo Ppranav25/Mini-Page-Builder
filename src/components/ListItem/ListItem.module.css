@@ -1,0 +1,49 @@
+.listItem  {
+ margin-top:10px;
+ position: relative;
+ width: 278px;
+ height: 49px;
+ border-radius: 4px;
+ background: #FFFFFF;
+ display: flex;
+}
+.listItem :dragover  {
+ margin-top:10px;
+ position: relative;
+ width: 278px;
+ height: 49px;
+ border-radius: 4px;
+ background: #FFFFFF;
+ display: flex;
+ opacity: 1;
+}
+
+.grip  {
+width: 11px;
+height: 18px;
+margin-top: 15px;
+margin-left: 11px;
+font-family: Font Awesome 5 Pro;
+font-size: 18px;
+font-weight: 900;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #D4D4D4;
+    
+}
+
+.label  {
+width: 235px;
+height: 32px;
+margin-top: 12px;
+margin-left: 32px;
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 300;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
